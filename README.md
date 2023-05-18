@@ -2,7 +2,7 @@
 
 I'm Guilherme, currently an Electrical Engeneering student at UFES.
 
-- 🌱 Currently learning Docker, MySQL, Spring Boot, Angular, Kotlin
+- 🌱 Currently learning Docker, MySQL, Spring Boot, Angular
 - 🧑‍💼 Working at project PAD-UFES
 - 🛸 Member of project ERUS - UFES's robotics team.
 
