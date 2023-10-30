@@ -2,9 +2,11 @@
 
 I'm Guilherme, currently an Electrical Engeneering student at UFES.
 
-- 🌱 Currently learning Docker, MySQL, Java Spring Boot, Angular
 - 🧑‍💼 Working at project PAD-UFES
 - 🛸 Member of project ERUS - UFES's robotics team.
+
+- I have some experience as a Fullstack Developer, working with Typescript, Angular and Java Spring Boot.
+- At College I studied C, C++, Java and Python, so I can deal with them with a few study.
 
 <!---
 caldgui/caldgui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
