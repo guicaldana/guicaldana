@@ -2,7 +2,7 @@
 
 I'm Guilherme, currently an Electrical Engeneering student at UFES.
 
-- 🧑‍💼 Working at project PAD-UFES
+- 🧑‍💼 Working at project PAD Tech-UFES
 - 🛸 Member of project ERUS - UFES's robotics team.
 
 - I have some experience as a Fullstack Developer, working with Typescript, Angular and Java Spring Boot.
