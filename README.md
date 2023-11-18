@@ -14,11 +14,12 @@
 - At College I studied C, C++, Java and Python, so I can deal with them with a few study.
 
 ### Things I like:
-- Learn different and new things;
-- Play music, currently I'm trying to master the violin;
-- Read some various kind of books (fantasy, sci-fi, philosophy, etc);
-- Play games with my friends
-- Watch anime, series and movies
+- Coding
+- Learning different and new things;
+- Playing music, currently I'm trying to master the violin;
+- Reading some various kind of books (fantasy, sci-fi, philosophy, etc);
+- Playing games with my friends
+- Watching anime, series and movies
 
 <!---
 caldgui/caldgui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
