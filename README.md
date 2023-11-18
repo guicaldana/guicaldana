@@ -1,12 +1,24 @@
 ## Yahallo!!👋
 
-I'm Guilherme, currently an Electrical Engeneering student at UFES.
+### About me:
 
-- 🧑‍💼 Working at project PAD Tech-UFES
-- 🛸 Member of project ERUS - UFES's robotics team.
+- I'm Guilherme, I am a 21 years old Electrical Engeneering undergraduate student at UFES (currently I am in the 5th grade).
 
-- I have some experience as a Fullstack Developer, working with Typescript, Angular and Java Spring Boot.
+### Professional Information
+
+- 🧑‍💼 Working at project [PADTech-UFES](pad.ufes.br/padtech/)
+- 🛸 Member of project [ERUS - UFES's robotics team](erus.ufes.br).
+
+- I have some experience as a Fullstack developer, working with Angular (Typescript) and Java Spring Boot. My objective is to master these frameworks and learn a little more about MySQL to get a stable knowledge;
+- I intend to learn more about software development, like React, VuesJS, and Kotlin, even UX and UI design;
 - At College I studied C, C++, Java and Python, so I can deal with them with a few study.
+
+### Things I like:
+- Learn different and new things;
+- Play music, currently I'm trying to master the violin;
+- Read some various kind of books (fantasy, sci-fi, philosophy, etc);
+- Play games with my friends
+- Watch anime, series and movies
 
 <!---
 caldgui/caldgui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
