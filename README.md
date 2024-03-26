@@ -7,7 +7,7 @@
 ### Professional Information
 
 - 🧑‍💼 Working at project [PADTech-UFES](pad.ufes.br/padtech/)
-- 🛸 Member of project [ERUS - UFES's robotics team](erus.ufes.br).
+- 🛸 Member of [Life - Health's Artificial Intelligence Laboratory](life.inf.ufes.br).
 
 - I have some experience as a Fullstack developer, working with Angular (Typescript) and Java Spring Boot. My objective is to master these frameworks and learn a little more about MySQL to get a stable knowledge;
 - I intend to learn more about software development, like React, VuesJS, and Kotlin, even UX and UI design;
