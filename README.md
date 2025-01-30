@@ -6,9 +6,10 @@
 
 ### Professional Information
 
-- 🧑‍💼 Working at project [PADTech-UFES](https://pad.ufes.br/padtech/)
-- 🛸 Member of [Life - Health's Artificial Intelligence Laboratory](https://life.inf.ufes.br).
+- 🧑‍💼 Working as Frontend Developer at [AUMO.AI](https://www.aumo.ai/)
 
+  
+- Currently working with Next.js
 - I have some experience as a Fullstack developer, working with Angular (Typescript) and Java Spring Boot. My objective is to master these frameworks and learn a little more about MySQL to get a stable knowledge;
 - I intend to learn more about software development, like React, VuesJS, and Kotlin, even UX and UI design;
 - At College I studied C, C++, Java and Python, so I can deal with them with a few study.
