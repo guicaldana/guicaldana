@@ -2,7 +2,7 @@
 
 ### About me:
 
-- I'm Guilherme, I am a 22 years old Electrical Engeneering undergraduate student at UFES (currently I am in the 6th grade).
+- I'm Guilherme, I am a 22 years old Electrical Engeneering undergraduate student at UFES (currently I am in the 7th grade).
 
 ### Professional Information
 
