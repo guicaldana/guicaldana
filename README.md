@@ -7,6 +7,7 @@
 ### Professional Information
 
 - 🧑‍💼 Working as Frontend Developer at [AUMO.AI](https://www.aumo.ai/)
+- Worked as Fullstack Developer at [LIFE](https://life.inf.ufes.br/)
 
   
 - Currently working with Next.js
