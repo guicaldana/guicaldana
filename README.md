@@ -6,7 +6,7 @@ I'm a Master's student and Software/AI Developer passionate about building intel
 
 ### 🔬 Research & Academic Background
 
-- 🎓 **M.Sc. Candidate** at **HCS Lab (Human-Centered Systems)** — UFES
+- 🎓 **M.Sc. Student** at **HCS Lab (Human-Centered Systems)** — UFES
 - 🧠 **Research Project:** *Advanced Neurorehabilitation Strategies: Human-Machine Interaction with Augmented Reality in Engaging and Adherent Multimodal Therapies*
 - ⚡ **B.S. in Electrical Engineering** from UFES
 
